@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TPColorMyViwes</string>
+    <string name="box_one">Box One</string>
+    <string name="box_two">Box Two</string>
+    <string name="box_trois">Box trois</string>
+    <string name="box_quatre">Box quatre</string>
+    <string name="box_cinq">Box cinq</string>
 </resources>
